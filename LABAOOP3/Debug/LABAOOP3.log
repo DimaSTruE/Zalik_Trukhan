@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\VSLab\LABAOOP3\LABAOOP3\Real_Num.h(7,7): warning C4215: нестандартное расширение: long float
+D:\VSLab\LABAOOP3\LABAOOP3\Source.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\VSLab\LABAOOP3\LABAOOP3\Source.cpp(17,26): warning C4305: аргумент: усечение из "double" в "float"
+D:\VSLab\LABAOOP3\LABAOOP3\Source.cpp(19,25): warning C4305: аргумент: усечение из "double" в "float"
+  LABAOOP3.vcxproj -> D:\VSLab\LABAOOP3\Debug\LABAOOP3.exe
