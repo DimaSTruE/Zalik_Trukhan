@@ -32,6 +32,11 @@ void Real_Num::Show()
 	cout << endl;
 }
 
+void Real_Num::Zalik()
+{
+	cout << "ZALIK";
+}
+
 void Real_Num::Show_Biggest(int value)
 {
 	float max = Real_Num_Array[0];

@@ -11,6 +11,7 @@ public:
 
 	void Fill_Array();
 	void Show();
+	void Zalik();
 
 	void Show_Biggest(int value);
 	void Show_Biggest(float value, int value2);
