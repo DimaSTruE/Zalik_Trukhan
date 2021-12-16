@@ -16,6 +16,7 @@ public:
 	void Show_Biggest(float value, int value2);
 	void Show_Lowest(int value);
 	void Show_Lowest(float value, int value2);
+	void Show_Lowest2();
 
 	Real_Num& operator+();
 	Real_Num& operator-();
